@@ -1,3 +1,7 @@
+# Notes
+- _course_files/arm64 for MacOS
+
+# Original
 ***January 2023: should now support arm64 (Apple silicon) properly ***
 
 For support, please visit the support service on the platform you're following the course on (Udemy or VPP). I generally check every day.
